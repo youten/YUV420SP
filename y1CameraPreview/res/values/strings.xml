@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- main -->
+    <string name="app_name">y1CameraPreview</string>
+    <string name="fps_default">--fps</string>
+</resources>
